@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### Architecture - V1.0
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +11,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+<img width="4096" alt="AWS Cloud Diagram Template (Community)" src="https://user-images.githubusercontent.com/25001061/233561068-fb4b0f08-8301-4491-895f-bd644e2dc29d.png">
